@@ -26,6 +26,6 @@ for i in encrypt:
             decrypt = decrypt + i
 
 
-print encrypt
+print "Encrypted Message : "encrypt
 
-print decrypt
+print "Decrypted Message : "decrypt
